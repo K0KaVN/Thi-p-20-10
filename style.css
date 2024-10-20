@@ -188,12 +188,12 @@ body{
 
 @keyframes animation1{
     50%{
-        transform: rotate(-10deg);
+        transform: rotate(-20deg);
     }
 }
 @keyframes animation2{
     50%{
-        transform: rotate(140deg);
+        transform: rotate(135deg);
     }
 }
 
@@ -201,16 +201,10 @@ body{
     50%{
         transform: rotate(100deg);
     }
-    100%{
-        transform: rotate(90deg);
-    }
 }
 
 @keyframes animation4{
     50%{
-        transform: rotate(-10deg);
-    }
-    100%{
-        transform: rotate(0deg);
+        transform: rotate(-15deg);
     }
 }
